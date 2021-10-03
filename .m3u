@@ -4,6 +4,11 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",ZDF [Geo-blocked]
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="Welt.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="News",WELT [Geo-blocked]
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:-1 tvg-id="Bild.tv" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="News",Bild TV [Geo-blocked]
+https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-id="RakutenTVDramaAustria.es" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="Movies",Rakuten TV Drama Austria (720p)
 https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaGermany.es" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="Movies",Rakuten TV Drama Germany (720p)
