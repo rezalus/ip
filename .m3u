@@ -1,12 +1,12 @@
 #EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="ÖR",Das Erste
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1 tvg-id="WDRKoeln.de" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="ÖR",WDR Koeln
+#EXTINF:-1 tvg-id="WDR.de" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="ÖR",WDR
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="ÖR",ZDF 
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="Welt.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="News",WELT 
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
-#EXTINF:-1 tvg-id="Bild.tv" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="News",Bild TV 
+#EXTINF:-1 tvg-id="BildTV.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="News",Bild TV HD
 https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="RakutenTVDramaAustria.es" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="Rakuten",Rakuten TV Drama Austria
