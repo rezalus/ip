@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-id="titan.stream" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Own",titan.stream
+rtmp://88.198.17.78/app/live
 
 #EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="ÖR",Das Erste
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
